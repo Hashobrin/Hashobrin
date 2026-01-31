@@ -1,9 +1,18 @@
-# 髙橋　将（たかはし　しょう）
-
+# Sho Takahashi/ 髙橋　将（たかはし　しょう）
 2020年学部卒、新卒でSIerに入社。2年後独立し、現在までフリーランスとして活動中。
 Pythonをメインにバックエンド開発を8年ほど行っています。
 
-## Resume/職務経歴書
+## Skills/ 保有技術
+
+Python: 8years
+
+Docker: 4years
+
+HTML/CSS/JS: 8years
+
+Java: 2years
+
+## Resume/ 職務経歴書
 [Resume EN](https://github.com/Hashobrin/Resume/blob/main/resume_en.md)
 
 [職務経歴書 JP](https://github.com/Hashobrin/Resume/blob/main/resume_jp.md)
