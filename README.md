@@ -13,6 +13,8 @@ HTML/CSS/JS: 8years
 Java: 2years
 
 ## Resume/ 職務経歴書
+[一覧](https://github.com/Hashobrin/Resume/tree/main)
+
 [Resume EN](https://github.com/Hashobrin/Resume/blob/main/resume_en.md)
 
 [職務経歴書 JP](https://github.com/Hashobrin/Resume/blob/main/resume_jp.md)
